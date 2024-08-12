@@ -3,6 +3,7 @@ AndroZoo_API_key.txt
 dataset/
 APK/
 fridaLogs/
+frida-server-16.1.4-android-x86_64
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
